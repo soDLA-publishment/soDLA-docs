@@ -1,0 +1,38 @@
+site_name: soDLA Documentation
+theme:
+  name: material
+  favicon: 'img/nprocessor-logos/logonobg.png'
+  logo: 'img/nprocessor-logos/logo2nobg.png'
+  font: false
+  features:
+    - instant    
+markdown_extensions:
+  - markdown.extensions.footnotes
+  - markdown.extensions.smarty
+  - markdown.extensions.admonition
+  - markdown.extensions.toc:
+      permalink: True
+  - markdown.extensions.tables
+  - pymdownx.details
+  - pymdownx.arithmatex
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra_javascript:
+  - js/MathJax-2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+extra_css:
+  - css/fonts.css
+  - css/style.css
+plugins:
+  - markdownextradata
+  - search
+nav:
+- 'Home': 'index.md'
+- Common Library:
+  - "pipe": 'slibs/pipe.md'
+  - "arbiter": 'slibs/arb.md'
+  - "FIFO": 'slibs/fifo.md'
+  - "ping-pong scheme" : 'ping-pong-reg/ping-pong-reg.md'
+- Retiming:
+  - "retiming": 'retiming/retiming.md'
+
