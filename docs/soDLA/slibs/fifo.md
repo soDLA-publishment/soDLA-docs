@@ -48,6 +48,13 @@ val pwrbus_ram_pd = Input(UInt(32.W))
 | `useRealClock` |  internal clock set to be default as clock, all possiblities of clock gating turns off  | 
 
 
+### FIFO Depth
+
+When dma send request, dma can get responce data quickly, to avoid data being blocked. Depth of FIFO need to be carefully determined.
+
+
+
+
 
 
 

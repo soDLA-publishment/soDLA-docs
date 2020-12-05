@@ -31,8 +31,11 @@ nav:
 - Common Library:
   - "pipe": 'slibs/pipe.md'
   - "arbiter": 'slibs/arb.md'
-  - "FIFO": 'slibs/fifo.md'
+  - "fifo": 'slibs/fifo.md'
   - "ping-pong scheme" : 'ping-pong-reg/ping-pong-reg.md'
 - Retiming:
   - "retiming": 'retiming/retiming.md'
+- DMA:
+  - "Delay Model": 'delay-model/delay-model.md'
+
 

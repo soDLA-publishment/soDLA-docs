@@ -28,6 +28,8 @@ for(t <- 0 to conf.CMAC_IN_RT_LATENCY-1){
     }
 }
 ```
+or you can transfer payload according to mask.
+
 
 
 
