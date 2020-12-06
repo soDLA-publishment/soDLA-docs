@@ -28,11 +28,11 @@ Arbiter with weighted input.
 
 `gnt_busy` is off:
 
-<img class="cora" src="/img/soDLA-jpgs/slibs/arb_test0.jpg" /> 
+<img class="cora" src="/img/soDLA-jpgs/arb_test0.jpg" /> 
 
 `gnt_busy` is on:
 
-<img class="cora" src="/img/soDLA-jpgs/slibs/arb_test1.jpg" /> 
+<img class="cora" src="/img/soDLA-jpgs/arb_test1.jpg" /> 
 
 
 
