@@ -29,13 +29,14 @@ plugins:
 nav:
 - 'Home': 'index.md'
 - Common Library:
-  - "pipe": 'slibs/pipe.md'
-  - "arbiter": 'slibs/arb.md'
-  - "fifo": 'slibs/fifo.md'
-  - "ping-pong scheme" : 'ping-pong-reg/ping-pong-reg.md'
+  - "pipe": 'soDLA/slibs/pipe.md'
+  - "arbiter": 'soDLA/slibs/arb.md'
+  - "fifo": 'soDLA/slibs/fifo.md'
+  - "ping-pong scheme" : 'soDLA/ping-pong-reg/ping-pong-reg.md'
 - Retiming:
-  - "retiming": 'retiming/retiming.md'
+  - "retiming": 'soDLA/retiming/retiming.md'
 - DMA:
-  - "Delay Model": 'delay-model/delay-model.md'
+  - "Delay Model": 'soDLA/delay-model/delay-model.md'
+
 
 
