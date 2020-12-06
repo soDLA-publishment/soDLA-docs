@@ -10,6 +10,8 @@ class NV_NVDLA_XXX_reg(implicit val conf: nvdlaConfig) extends Module
 ```
 Need to instantiate one `NV_NVDLA_BASIC_REG_single`, two `NV_NVDLA_XXX_REG_dual`,  `NV_NVDLA_CSB_LOGIC` within this module. `NV_NVDLA_XXX_reg` module need to be modified from existing soDLA NV_NVDLA_XXX_reg examples, according to the exactly requirements such as performance counter, interrupt counter.
 
+<img class="soDLA" src="/img/soDLA-jpgs/ping-pong-diagram.jpg" /> 
+
 ### Interfaces
 
 ```
@@ -65,6 +67,12 @@ class xxx_reg_dual_flop_outputs extends Bundle{
 ### Add-ons
 
 Performance counters and interrupt counters, please refer to csc, sdp, pdp, cdp.
+
+### Workflow
+
+<img class="soDLA" src="/img/soDLA-jpgs/ping-pong-configuration-flow.jpg" /> 
+
+
 
 
 
