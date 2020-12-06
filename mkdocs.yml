@@ -36,7 +36,7 @@ nav:
 - Retiming:
   - "retiming": 'soDLA/retiming/retiming.md'
 - DMA:
-  - "Delay Model": 'soDLA/delay-model/delay-model.md'
+  - "Delay Model": 'soDLA/dma/delay-model.md'
 
 
 
