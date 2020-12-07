@@ -28,7 +28,7 @@ Current Milestone:
 
 Wechat donations(NProcessor have no fundings, all the donations will be incentivized to the soDLA and cora developers):
 
-<img class="soDLA" src="/img/donations/donation.JPG"/>
+<img class="soDLA" src="/img/donations/donation.jpg"/>
 
 ## Why soDLA Docs
 
