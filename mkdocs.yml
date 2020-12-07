@@ -37,6 +37,9 @@ nav:
   - "retiming": 'soDLA/retiming/retiming.md'
 - DMA:
   - "Delay Model": 'soDLA/dma/delay-model.md'
+- Firesim:
+  - "Firesim Instruction": 'soDLA/firesim/firesim-instruction.md'
+
 
 
 
