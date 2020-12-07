@@ -16,7 +16,7 @@ cora extension is the NVDLA extension designed from soDLA, using the similar des
 
 In Oct 2020, with the cora extension project, NProcessor is selected as hotdesk team in [berkeley skydeck](https://skydeck.berkeley.edu/). We got much aws credit and google credit to support soDLA and cora project together now. 
 
-Although [chisel-uvm](https://github.com/chisel-uvm) is under development with the lead of Martin Schoeberl, uvm in chisel still need some time to mature. Currently, soDLA need to be fully tested on [firesim-nvdla](https://github.com/CSL-KU/firesim-nvdla). Welcome to test soDLA on firesim, since we have the free aws credit.
+Although [chisel-uvm](https://github.com/chisel-uvm) is under development with the lead of Martin Schoeberl, uvm in chisel still need some time to mature. Currently, soDLA need to be fully tested on [firesim-nvdla](https://github.com/CSL-KU/firesim-nvdla). Welcome to test soDLA on firesim(send an email to me yuda@berkeley.edu), since we have the free aws credit. 
 
 
 Current Milestone:
