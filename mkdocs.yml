@@ -39,7 +39,8 @@ nav:
   - "Delay Model": 'soDLA/dma/delay-model.md'
 - Firesim:
   - "Firesim Instruction": 'soDLA/firesim/firesim-instruction.md'
-
+- Functional Safety:
+  - "Hazard Anaylsis": 'soDLA/functional-safety/hazard-analysis.md'
 
 
 

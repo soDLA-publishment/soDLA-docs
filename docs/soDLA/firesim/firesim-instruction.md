@@ -67,3 +67,4 @@ b)	After burning, use scp to download all the log and backup to the local as a l
 
 3.	Test the darknet function: refer to the flow in firesim-nvdla, if darknet can correctly identify the target in the picture, the module will function normally.
 
+
