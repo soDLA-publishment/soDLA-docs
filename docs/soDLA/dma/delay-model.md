@@ -23,6 +23,7 @@ val NVDLA_VMOD_XXX_RDMA_LATENCY_FIFO_DEPTH  = max(4,ceil(NVDLA_PRIMARY_MEMIF_LAT
 ```
 `NVDLA_PRIMARY_MEMIF_LATENCY` is the delay defined by NoC team.
 
+## WDMA Pattern
 
 
 

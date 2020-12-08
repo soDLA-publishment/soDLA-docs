@@ -37,6 +37,8 @@ nav:
   - "retiming": 'soDLA/retiming/retiming.md'
 - DMA:
   - "Delay Model": 'soDLA/dma/delay-model.md'
+  - "AXI Interface": 'soDLA/dma/axi-interface.md'
+  - "DMA Design in soDLA": 'soDLA/dma/dma-design.md'
 - Firesim:
   - "Firesim Instruction": 'soDLA/firesim/firesim-instruction.md'
 - Functional Safety:
