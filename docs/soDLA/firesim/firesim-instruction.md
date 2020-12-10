@@ -33,6 +33,7 @@ ssh to the ip address given by `firesim manager`
 
 ```
 ssh IP 
+screen -r fsim
 ```
 
 Username: root
